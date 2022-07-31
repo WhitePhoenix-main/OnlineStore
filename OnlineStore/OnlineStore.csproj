@@ -20,7 +20,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Pages\Admin" />
       <Folder Include="Pages\Helper" />
       <Folder Include="Scripts" />
     </ItemGroup>

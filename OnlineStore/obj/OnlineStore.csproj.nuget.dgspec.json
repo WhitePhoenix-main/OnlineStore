@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SitesSolutions\\sbs\\OnlineStore\\OnlineStore.csproj": {}
+    "D:\\SitesSolutions\\OnlineStore\\OnlineStore\\OnlineStore.csproj": {}
   },
   "projects": {
-    "D:\\SitesSolutions\\sbs\\OnlineStore\\OnlineStore.csproj": {
+    "D:\\SitesSolutions\\OnlineStore\\OnlineStore\\OnlineStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SitesSolutions\\sbs\\OnlineStore\\OnlineStore.csproj",
+        "projectUniqueName": "D:\\SitesSolutions\\OnlineStore\\OnlineStore\\OnlineStore.csproj",
         "projectName": "OnlineStore",
-        "projectPath": "D:\\SitesSolutions\\sbs\\OnlineStore\\OnlineStore.csproj",
+        "projectPath": "D:\\SitesSolutions\\OnlineStore\\OnlineStore\\OnlineStore.csproj",
         "packagesPath": "C:\\Users\\enixm\\.nuget\\packages\\",
-        "outputPath": "D:\\SitesSolutions\\sbs\\OnlineStore\\obj\\",
+        "outputPath": "D:\\SitesSolutions\\OnlineStore\\OnlineStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\enixm\\AppData\\Roaming\\NuGet\\NuGet.Config",
