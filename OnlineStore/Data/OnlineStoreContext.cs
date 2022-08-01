@@ -2,11 +2,11 @@
 using Microsoft.EntityFrameworkCore;
 using OnlineStore;
 
-namespace OnlineStore.Data;
+namespace OnlineStore;
 
-public class OnlineStoreDbContext : IdentityDbContext
+public class OnlineStoreContext : IdentityDbContext<SiteUsers>
 {
-    public OnlineStoreDbContext(DbContextOptions<OnlineStoreDbContext> options)
+    public OnlineStoreContext(DbContextOptions<OnlineStoreContext> options)
         : base(options)
     {
     }
