@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SitesSolutions\\OnlineStore\\PizzaStore\\PizzaStore.csproj": {}
+    "D:\\SitesSolutions\\PizzaStore\\PizzaStore\\PizzaStore.csproj": {}
   },
   "projects": {
-    "D:\\SitesSolutions\\OnlineStore\\PizzaStore\\PizzaStore.csproj": {
+    "D:\\SitesSolutions\\PizzaStore\\PizzaStore\\PizzaStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SitesSolutions\\OnlineStore\\PizzaStore\\PizzaStore.csproj",
+        "projectUniqueName": "D:\\SitesSolutions\\PizzaStore\\PizzaStore\\PizzaStore.csproj",
         "projectName": "PizzaStore",
-        "projectPath": "D:\\SitesSolutions\\OnlineStore\\PizzaStore\\PizzaStore.csproj",
+        "projectPath": "D:\\SitesSolutions\\PizzaStore\\PizzaStore\\PizzaStore.csproj",
         "packagesPath": "C:\\Users\\enixm\\.nuget\\packages\\",
-        "outputPath": "D:\\SitesSolutions\\OnlineStore\\PizzaStore\\obj\\",
+        "outputPath": "D:\\SitesSolutions\\PizzaStore\\PizzaStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\enixm\\AppData\\Roaming\\NuGet\\NuGet.Config",

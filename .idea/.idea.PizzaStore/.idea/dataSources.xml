@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Microsoft SQL Server LocalDB (JetBrains)" uuid="df05d7a0-09a9-4a78-8cc0-1c5e78344fbb">
+    <data-source source="LOCAL" name="PizzaStore" uuid="1db4dcaa-9102-4da7-a121-af829732a7ea">
       <driver-ref>sqlserver.localdb.jb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.jetbrains.jdbc.sqlserver.SqlServerDriver</jdbc-driver>
-      <jdbc-url>Server=(localdb)\;Database=OnlineStore</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="OnlineStore" uuid="f3ad2dc5-2d50-49d6-b7a4-5ecd09b58342">
-      <driver-ref>sqlserver.localdb.jb</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.jetbrains.jdbc.sqlserver.SqlServerDriver</jdbc-driver>
-      <jdbc-url>Server=(localdb)\mssqllocaldb;Database=OnlineStore</jdbc-url>
+      <jdbc-url>Server=(localdb)\mssqllocaldb;Database=PizzaStore;Trusted_Connection=True;MultipleActiveResultSets=true</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>

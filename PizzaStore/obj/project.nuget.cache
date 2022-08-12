@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W3v7wfTzV+XYqB0zD+5jFT9yYXTjLSetUJ0IKrDgxiRrl4SGymh9nvCZZ+g8R0QnJ8WKqDMMbeGJorZrFxVAGQ==",
+  "dgSpecHash": "gLPhdX7Fp9a2+NN222uhFEjxB3L4WD/F4IBb7ojpjkueU48s9veIAErnLpnPAkWjiueFXLAAf+ySdlXXkacRZg==",
   "success": true,
-  "projectFilePath": "D:\\SitesSolutions\\OnlineStore\\PizzaStore\\PizzaStore.csproj",
+  "projectFilePath": "D:\\SitesSolutions\\PizzaStore\\PizzaStore\\PizzaStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enixm\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\enixm\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
